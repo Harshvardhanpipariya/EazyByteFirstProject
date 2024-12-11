@@ -1,0 +1,22 @@
+.LogIn{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap:20px;
+    color:white;
+    background-color: black;
+    
+}
+input {
+    all: unset; /* Resets all styles */
+    background-color: white;
+    color:black ;
+  }
+  
+
+.submit{
+    min-width: 10%;
+}
+
